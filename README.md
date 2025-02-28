@@ -1,1 +1,1 @@
-# movies-app-clone
+# movie-app
